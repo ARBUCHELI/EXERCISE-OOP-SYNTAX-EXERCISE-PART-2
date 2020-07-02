@@ -1,6 +1,6 @@
 # EXERCISE-OOP-SYNTAX-EXERCISE-PART-2
 
-## Disclaimer: This exercise was Created by Udacity (AWS Machine Learning Foundations Course) (Solution of the exercise and adaptation as a repository: Andrés R. Bücheli.)
+## Disclaimer: This exercise was Created by Udacity (AWS Machine Learning Foundations Course) (Solution of the exercise and adaptation as a repository: Andrés R. Bucheli.)
 
 Writing classes in Python. 
 
@@ -268,4 +268,4 @@ salesperson.sell_pants(pants_three)
 salesperson.display_sales()
 </code></pre>
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bücheli.
+# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
