@@ -268,4 +268,4 @@ salesperson.sell_pants(pants_three)
 salesperson.display_sales()
 </code></pre>
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
+## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
